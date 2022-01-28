@@ -42,6 +42,8 @@ void main() {
   });
 }
 
+//main app section
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
